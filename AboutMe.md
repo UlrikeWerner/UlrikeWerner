@@ -7,5 +7,5 @@ In my free time:
 - love to create code
 - gardening
 
-I have **never** worked in my pajamas, but I would like to.
+I have <ins>never</ins> worked in my pajamas, but I would like to.
 I would like to work not at home. I missing to meet people.
