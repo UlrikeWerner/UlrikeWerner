@@ -1,7 +1,11 @@
-Ulrike Werner
+## Ulrike Werner
 
-I'm 35 years old and life in Flensburg.
-In my free time, I run and love to create code.
+I'm 35 years old and life in **Flensburg**.
 
-I have never worked in my pajamas, but I would like to.
+In my free time: 
+- run
+- love to create code
+- gardening
+
+I have **never** worked in my pajamas, but I would like to.
 I would like to work not at home. I missing to meet people.
