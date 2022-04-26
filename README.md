@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hey 👋, I'm Ulrike
+### A web developer in training from Flensburg
 
-<!--
-**UlrikeWerner/UlrikeWerner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :books: Things I am learning
+- HTML
+- CSS
+- JavaScript
+- Git / GitHub
+- React
 
-Here are some ideas to get you started:
+### :running_woman: Hobbies
+- Running
+- Gardening
+- Playing Board Games
+- Cuddling my Cats 🐱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Projects
+- coming soon...
+
+### When we work together, make sure there is enough ☕
