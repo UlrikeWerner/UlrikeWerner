@@ -8,7 +8,6 @@ I just finished my frontend developer bootcamp at neuefische GmbH and am now loo
 
 * 🌍  I'm based in Flensburg
 * ✉️  You can contact me at [ulrike\_werner@web.de](mailto:ulrike_werner@web.de)
-* 🚀  I'm currently working on [run-the-world](http://run-the-world.vercel.app)
 * 🧠  I'm learning React, MongoDB, JavaScript
 * ⚡  I'm a caffeine junky and cat lady.
 
