@@ -33,6 +33,9 @@ I just finished my frontend developer bootcamp at neuefische GmbH and am now loo
 <div width="100%" align="center"><a href="https://github.com/UlrikeWerner/quiz" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=UlrikeWerner&repo=quiz&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/UlrikeWerner/react-and-morty" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=UlrikeWerner&repo=react-and-morty&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a></div>
 <br /><br /><br /><br /><br /><br />
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=UlrikeWerner&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/justUlli"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
