@@ -34,7 +34,7 @@ I just finished my frontend developer bootcamp at neuefische GmbH and am now loo
 <br /><br /><br /><br /><br /><br />
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UlrikeWerner&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=UlrikeWerner&theme=onestar&column=3&margin-w=15&margin-h=15&no-frame=false&no-bg=false)
 
 ### Support Me
 
